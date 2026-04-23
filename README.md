@@ -1,12 +1,3 @@
-# netadmin
-Respositori per aprendre, documentar i automatizar la gestió d'un laboratori virtual amb VirtualBox 
-
-Molt bé, Salvador. Tenir un `README.md` ben estructurat és fonamental perquè el repositori sigui professional i útil per a futurs consultes o col·laboradors.
-
-Aquí tens una proposta de contingut per al teu `README.md`. Pots copiar-ho directament al fitxer del teu repositori `netadmin`:
-
-***
-
 # NetAdmin Lab: Automatització i Xarxes
 
 Aquest repositori conté la configuració, l'automatització i la documentació tècnica del meu laboratori de xarxes virtualitzat. L'objectiu és aplicar pràctiques d'**Infrastructure as Code (IaC)** per gestionar un entorn que combina sistemes Linux (Debian/Ubuntu) amb el ruteig professional de MikroTik.
@@ -29,12 +20,3 @@ El laboratori es basa en VirtualBox amb la següent estructura:
 
 ---
 *Projecte de laboratori de xarxes gestionat per NetAdmin.*
-
-***
-
-### Com ho veus?
-Aquest text és directe i deixa clar què trobarà qualsevol persona (o tu mateix en el futur) en entrar al repositori.
-
-**Un consell addicional:** Com que estàs a GitHub, un cop hagis començat a afegir fitxers, seria molt interessant afegir un fitxer `.gitignore` a l'arrel per evitar pujar dades sensibles o fitxers temporals de VirtualBox/Ansible (com ara fitxers `.retry` d'Ansible o fitxers de configuració amb credencials reals).
-
-Vols que et prepari una plantilla de `.gitignore` adequada per a un projecte de SysAdmin com aquest?
